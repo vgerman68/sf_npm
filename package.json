@@ -1,0 +1,19 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package.json file for module B4.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello!\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgerman68/sf_npm.git"
+  },
+  "author": "German Vorotnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgerman68/sf_npm/issues"
+  },
+  "homepage": "https://github.com/vgerman68/sf_npm#readme"
+}
