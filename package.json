@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vgerman68/sf_npm/issues"
   },
-  "homepage": "https://github.com/vgerman68/sf_npm#readme"
+  "homepage": "https://github.com/vgerman68/sf_npm#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
 }
