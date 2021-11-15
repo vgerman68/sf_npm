@@ -1,6 +1,8 @@
 # sf_npm
 
-B4.2. NPM as service
+NPM rpeository
+
+a jquery package
 
 # install
 
