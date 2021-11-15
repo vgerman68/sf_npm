@@ -6,4 +6,6 @@ a jquery package
 
 # install
 
-	npm i package_dir --save
+	npm init -y
+	
+	npm i package_name --save
