@@ -1,5 +1,5 @@
 {
-  "name": "sf_npm",
+  "name": "sf_npm_pack",
   "version": "1.0.0",
   "description": "package sf_npm.json",
   "main": "index.js",
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/vgerman68/sf_npm#readme",
   "dependencies": {
     "package.json": "^2.0.1"
-  }
+  },
+  "devDependencies": {}
 }
