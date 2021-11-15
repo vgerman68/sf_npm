@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vgerman68/sf_npm#readme",
   "dependencies": {
+    "bootstrap": "^5.1.3",
     "package.json": "^2.0.1"
   },
   "devDependencies": {}
