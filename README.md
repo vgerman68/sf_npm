@@ -2,4 +2,4 @@
 
 install
 
-	npm i package_dir
+	npm i package_dir --save
