@@ -1,10 +1,10 @@
 {
-  "name": "sf_npm_pack",
+  "name": "sf_jquery",
   "version": "1.0.0",
-  "description": "package sf_npm.json",
+  "description": "Create a jquery package for npm",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('Hello NPM!')"
+    "test": "console.log(\"JQuery package!\")"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/vgerman68/sf_npm#readme",
   "dependencies": {
-    "bootstrap": "^5.1.3",
-    "package.json": "^2.0.1"
-  },
-  "devDependencies": {}
+    "jquery": "^3.6.0"
+  }
 }
