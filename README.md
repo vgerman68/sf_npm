@@ -1,7 +1,11 @@
 # sf_npm
 
-B4.2. NPM as service
+NPM rpeository
+
+a jquery package
 
 # install
 
-	npm i package_dir --save
+	npm init -y
+	
+	npm i package_name --save
