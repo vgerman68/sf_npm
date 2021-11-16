@@ -2,7 +2,7 @@
 
 B4.2.7 task of jquery
 
-# install
+# Install
 
 	npm init -y
 	
