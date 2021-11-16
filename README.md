@@ -6,4 +6,4 @@ B4.2.7 task of jquery
 
 	npm init -y
 	
-	npm i sf_npm --save
+	npm i
