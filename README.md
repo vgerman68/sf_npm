@@ -2,7 +2,7 @@
 
 NPM rpeository
 
-a jquery package
+B4.5.1 task of array for JS
 
 # install
 
