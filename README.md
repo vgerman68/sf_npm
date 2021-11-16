@@ -2,7 +2,7 @@
 
 NPM rpeository
 
-B4.5.1 task of array for JS
+B4.2.7 task of jquery
 
 # install
 
